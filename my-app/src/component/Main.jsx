@@ -3,6 +3,7 @@ import arrow from './../assets/arrow-left.png';
 import DataFetch from './DataFetch';
 import tick from './../assets/tick.png';
 
+
 const Main = () => {
   const [showSortOptions, setShowSortOptions] = useState(false);
   const [selectedSort, setSelectedSort] = useState('Recommended');

@@ -1,0 +1,13 @@
+/* Import TailwindCSS */
+@import 'tailwindcss';
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Import the custom font */
+@font-face {
+  font-family: 'Simplon Norm';
+  src: url('/fonts/SimplonNorm-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
